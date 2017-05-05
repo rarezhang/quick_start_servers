@@ -1,0 +1,1 @@
+mysqld --datadir=D:/MySQLdata/
